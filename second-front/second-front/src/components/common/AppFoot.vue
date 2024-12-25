@@ -1,3 +1,4 @@
+<!-- Foot模块 -->
 <template>
     <div class="foot-container">
         <div class="author">二手物品交易平台</div>
